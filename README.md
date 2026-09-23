@@ -20,7 +20,7 @@ The scientific publication related to this research will be added after its publ
 Clone the repository:
 
 ```bash
-git clone https://github.com/<USERNAME>/retinal-image-ai-research.git
+git clone https://github.com/Ilan-Ysm/retinal-image-ai-research.git
 cd retinal-image-ai-research
 ```
 
@@ -66,7 +66,7 @@ The licenses of external datasets remain subject to the terms and conditions of 
 
 **Ilan Ysmagul**
 Master's student
-Astana IT University
+L.N. Gumilyov Eurasian National University
 Astana, Kazakhstan
 
 GitHub: https://github.com/<USERNAME>
